@@ -1,2 +1,2 @@
-<h1 align="center" >「 Hello World, I'm Stefan 」</h1>
-<h4 align="center"><i> ~ likes to make some project now and then ~ </i></h4>
+<h1 align="center" >「 Hello World 」</h1>
+<h4 align="center"><i> ~ I like to make some project now and then ~ </i></h4>
